@@ -12,3 +12,4 @@
 - [Git Branches](https://github.com/emreharman/git-study/blob/main/6.%20Git%20Branches.md)
 - [Remote Repository (GitHub)](<https://github.com/emreharman/git-study/blob/main/7.%20Remote%20Repository%20(GitHub).md>)
 - [Basic GitHub Operations](https://github.com/emreharman/git-study/blob/main/8.%20Basic%20GitHub%20%20Operations.md)
+- [About .gitignore](https://github.com/emreharman/git-study/blob/main/9.%20About%20.gitignore.md)
