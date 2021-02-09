@@ -11,3 +11,4 @@
 - [Staging Area Commands](https://github.com/emreharman/git-study/blob/main/5.%20Staging%20Area%20Commands.md)
 - [Git Branches](https://github.com/emreharman/git-study/blob/main/6.%20Git%20Branches.md)
 - [Remote Repository (GitHub)](<https://github.com/emreharman/git-study/blob/main/7.%20Remote%20Repository%20(GitHub).md>)
+- [Basic GitHub Operations](https://github.com/emreharman/git-study/blob/main/8.%20Basic%20GitHub%20%20Operations.md)
